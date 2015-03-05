@@ -1,3 +1,7 @@
+// UVa10041
+// CPE #01
+// MCU #25
+
 #include <iostream>
 #include <algorithm>
 #include <vector>

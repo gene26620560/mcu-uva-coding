@@ -1,4 +1,6 @@
 // UVa10055
+// CPE #02
+// MCU #01
 
 #include <iostream>
 using namespace std;
