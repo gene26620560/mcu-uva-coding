@@ -1,7 +1,7 @@
 #銘傳大學 UVa 闖關
 ##索引
 - [MCU#01/CPE#02 UVa10055](UVa10055.cpp) Hashmat the Brave Warrior
-- MCU#02/CPE#19 UVa10783
+- [MCU#02/CPE#19 UVa10783](UVa10783.cpp) Odd Sum
 - MCU#03/CPE#20 UVa10812
 - MCU#04/CPE#24 UVa10071
 - MCU#05/CPE#48 UVa11150
